@@ -8,7 +8,6 @@ import Meta from "../component/Meta";
 
 export default function Home({products}) {
 
-  
   return (
     <>
       <Meta title="Home" description="This is a It complay" keywords="Web design,web development,logo design"/>
